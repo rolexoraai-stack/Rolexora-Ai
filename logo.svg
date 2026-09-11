@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="logoGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="800" rx="120" fill="#050509"/>
+
+  <path
+    d="M210 190h260c100 0 150 55 150 125
+       0 60-35 100-95 115l110 120H500L395 420h-55v130H210V190zm130 95v70h105
+       c35 0 55-12 55-35s-20-35-55-35H340z"
+    fill="url(#logoGradient)"/>
+
+  <path
+    d="M190 500c95 55 230 70 360 15
+       55-23 88-55 105-91"
+    fill="none"
+    stroke="url(#logoGradient)"
+    stroke-width="28"
+    stroke-linecap="round"/>
+
+  <circle cx="665" cy="285" r="12" fill="#00f2fe"/>
+
+  <path
+    d="M665 245v80M625 285h80"
+    stroke="#00f2fe"
+    stroke-width="10"
+    stroke-linecap="round"/>
+
+  <text
+    x="400"
+    y="650"
+    text-anchor="middle"
+    fill="white"
+    font-family="Arial, sans-serif"
+    font-size="78"
+    font-weight="700"
+    letter-spacing="5">
+    ROLEXORA
+  </text>
+
+  <text
+    x="400"
+    y="720"
+    text-anchor="middle"
+    fill="url(#logoGradient)"
+    font-family="Arial, sans-serif"
+    font-size="54"
+    font-weight="700"
+    letter-spacing="12">
+    AI
+  </text>
+</svg>
